@@ -6,6 +6,9 @@
  - or / veya
 * pip install -r requirements.txt
 
+#### Python Version 
+      3.8.5
+
 # Image / Görüntü
 ![Image](https://github.com/1nnr3d/simple-dir-buster/blob/main/images/ss.PNG)
 
