@@ -1,7 +1,7 @@
 import requests
+import urllib
 from time import sleep
 from threading import Thread
-import urllib
 from colorama import Fore
 
 def startDir():
