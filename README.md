@@ -3,7 +3,7 @@
 ## Setup / Kurulum 
 
 * py -m pip install -r requirements.txt
-- or
+ - or/ veya
 * pip install -r requirements.txt
 
 # Image / Görüntü
