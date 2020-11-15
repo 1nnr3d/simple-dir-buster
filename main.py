@@ -77,4 +77,3 @@ def dir(url,wrds):
                 print(f"{u} : {r} ? ")
     sleep(2)
 startDir()
-        #C:\Users\test\Desktop\usom\usom.txt
