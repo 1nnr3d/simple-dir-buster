@@ -7,7 +7,7 @@
 * pip install -r requirements.txt
 
 # Image / Görüntü
-![Image](https://github.com/1nnr3d/simple-link-extractor/blob/main/image.PNG)
+![Image](https://github.com/1nnr3d/simple-dir-buster/blob/main/images/ss.PNG)
 
 ## License
 
